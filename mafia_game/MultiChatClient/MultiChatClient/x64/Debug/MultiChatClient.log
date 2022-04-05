@@ -1,0 +1,13 @@
+﻿MultiChatClient.obj : error LNK2019: unresolved external symbol __imp_closesocket referenced in function "void __cdecl openSocket(char * const,int)" (?openSocket@@YAXQEADH@Z)
+MultiChatClient.obj : error LNK2019: unresolved external symbol __imp_connect referenced in function "void __cdecl openSocket(char * const,int)" (?openSocket@@YAXQEADH@Z)
+MultiChatClient.obj : error LNK2019: unresolved external symbol __imp_htons referenced in function "void __cdecl openSocket(char * const,int)" (?openSocket@@YAXQEADH@Z)
+MultiChatClient.obj : error LNK2019: unresolved external symbol __imp_inet_addr referenced in function "void __cdecl openSocket(char * const,int)" (?openSocket@@YAXQEADH@Z)
+MultiChatClient.obj : error LNK2019: unresolved external symbol __imp_inet_ntoa referenced in function "void __cdecl openSocket(char * const,int)" (?openSocket@@YAXQEADH@Z)
+MultiChatClient.obj : error LNK2019: unresolved external symbol __imp_ntohs referenced in function "void __cdecl openSocket(char * const,int)" (?openSocket@@YAXQEADH@Z)
+MultiChatClient.obj : error LNK2019: unresolved external symbol __imp_recv referenced in function "void __cdecl openSocket(char * const,int)" (?openSocket@@YAXQEADH@Z)
+MultiChatClient.obj : error LNK2019: unresolved external symbol __imp_send referenced in function "void __cdecl openSocket(char * const,int)" (?openSocket@@YAXQEADH@Z)
+MultiChatClient.obj : error LNK2019: unresolved external symbol __imp_socket referenced in function "void __cdecl openSocket(char * const,int)" (?openSocket@@YAXQEADH@Z)
+MultiChatClient.obj : error LNK2019: unresolved external symbol __imp_WSAStartup referenced in function "void __cdecl openSocket(char * const,int)" (?openSocket@@YAXQEADH@Z)
+MultiChatClient.obj : error LNK2019: unresolved external symbol __imp_WSACleanup referenced in function "void __cdecl openSocket(char * const,int)" (?openSocket@@YAXQEADH@Z)
+MultiChatClient.obj : error LNK2019: unresolved external symbol __imp_WSAGetLastError referenced in function "void __cdecl openSocket(char * const,int)" (?openSocket@@YAXQEADH@Z)
+C:\Users\user\source\repos\MultiChatClient\x64\Debug\MultiChatClient.exe : fatal error LNK1120: 12 unresolved externals

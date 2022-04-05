@@ -1,0 +1,15 @@
+﻿  MultiChatServer.cpp
+C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatServer\MultiChatServer\MultiChatServer.cpp(60,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatServer\MultiChatServer\MultiChatServer.cpp(102,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatServer\MultiChatServer\MultiChatServer.cpp(124,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatServer\MultiChatServer\MultiChatServer.cpp(128,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatServer\MultiChatServer\MultiChatServer.cpp(132,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatServer\MultiChatServer\MultiChatServer.cpp(136,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatServer\MultiChatServer\MultiChatServer.cpp(140,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatServer\MultiChatServer\MultiChatServer.cpp(159,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatServer\MultiChatServer\MultiChatServer.cpp(190,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatServer\MultiChatServer\MultiChatServer.cpp(288,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatServer\MultiChatServer\MultiChatServer.cpp(295,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatServer\MultiChatServer\MultiChatServer.cpp(263,25): warning C4101: 'sendnum': unreferenced local variable
+C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatServer\MultiChatServer\MultiChatServer.cpp(263,7): warning C4101: 'msg': unreferenced local variable
+  MultiChatServer.vcxproj -> C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatServer\x64\Debug\MultiChatServer.exe

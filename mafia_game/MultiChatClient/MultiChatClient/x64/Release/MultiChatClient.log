@@ -1,0 +1,9 @@
+﻿  MultiChatClient.cpp
+C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatClient\MultiChatClient\MultiChatClient.cpp(23,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatClient\MultiChatClient\MultiChatClient.cpp(72,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  84 of 87 functions (96.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MultiChatClient.vcxproj -> C:\Users\user\OneDrive\바탕 화면\mafia_game\MultiChatClient\x64\Release\MultiChatClient.exe

@@ -1,0 +1,10 @@
+﻿  MultiChatServer.cpp
+C:\Users\user\source\repos\MultiChatServer\MultiChatServer\MultiChatServer.cpp(66,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\MultiChatServer\MultiChatServer\MultiChatServer.cpp(91,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\MultiChatServer\MultiChatServer\MultiChatServer.cpp(94,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\MultiChatServer\MultiChatServer\MultiChatServer.cpp(96,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\MultiChatServer\MultiChatServer\MultiChatServer.cpp(98,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\MultiChatServer\MultiChatServer\MultiChatServer.cpp(100,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\MultiChatServer\MultiChatServer\MultiChatServer.cpp(149,25): warning C4101: 'sendnum': unreferenced local variable
+C:\Users\user\source\repos\MultiChatServer\MultiChatServer\MultiChatServer.cpp(149,7): warning C4101: 'msg': unreferenced local variable
+LINK : fatal error LNK1104: cannot open file 'C:\Users\user\source\repos\MultiChatServer\x64\Release\MultiChatServer.exe'
